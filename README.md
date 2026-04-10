@@ -40,16 +40,16 @@ Uses malloc, realloc, and free carefully to ensure no memory leaks.
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```
 ByteStream-Reassembly/
-│
-├── defrag.h          # structure definitions and function declarations
-├── defrag.c          # core reassembly logic
-├── main.c            # test driver and simulation
+├── defrag.h     # structure definitions and function declarations
+├── defrag.c     # core reassembly logic
+├── main.c       # test driver and simulation
 └── README.md
-
----
+```
+--- 
 
 ## Core Design
 
